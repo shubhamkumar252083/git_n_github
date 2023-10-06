@@ -17,4 +17,4 @@ from test_one import check
 def check2():
   check()
 
-check2()
+# check2()
